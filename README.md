@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello, I'm Rene, a highly motivated Full-Stack developer who's passionate about self-improvement.
 
-<!--
-**Reneginf/Reneginf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Full-Stack Projects to showcase my skills
+- 🌱 I’m currently focusing on improving Python, CSS Sass, and React
+- 👯 I’m looking to collaborate on Full-Stack projects
+
+
+- 📫 How to reach me: renegonzaloinfante@gmail.com
+- 😄 Pronouns: He/Him/His
+- ⚡ Fun fact: I've ran 2 triathlons
+
