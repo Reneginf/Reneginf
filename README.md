@@ -1,3 +1,5 @@
+![](Rene Gonzalo Infante.gif)
+
 Hello, I'm Rene, a highly motivated Full-Stack developer who's passionate about self-improvement.
 
 
