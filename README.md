@@ -1,4 +1,4 @@
-![](Rene Gonzalo Infante.gif)
+![Rene](https://user-images.githubusercontent.com/37104702/215172936-cebd39f4-e694-472f-bf3b-60dd95f85c13.gif)
 
 Hello, I'm Rene, a highly motivated Full-Stack developer who's passionate about self-improvement.
 
@@ -12,4 +12,5 @@ Hello, I'm Rene, a highly motivated Full-Stack developer who's passionate about 
 - 📫 How to reach me: renegonzaloinfante@gmail.com
 - 😄 Pronouns: He/Him/His
 - ⚡ Fun fact: I've ran 2 triathlons
+
 
